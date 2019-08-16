@@ -1,0 +1,4 @@
+# Ignore output of scraper
+*.sqlite
+.direnv
+.envrc
