@@ -4,7 +4,7 @@
 
 source "https://rubygems.org"
 
-#ruby "2.6"
+ruby "2.6.3"
 
 gem "scraperwiki"
 gem "uk_planning_scraper"
